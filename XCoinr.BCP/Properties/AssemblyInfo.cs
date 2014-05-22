@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("XCoinr.BCP")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Red Bull Technology")]
+[assembly: AssemblyCompany("Metrobit Ltd")]
 [assembly: AssemblyProduct("XCoinr.BCP")]
-[assembly: AssemblyCopyright("Copyright © Red Bull Technology 2014")]
+[assembly: AssemblyCopyright("Copyright © Metrobit Ltd")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
