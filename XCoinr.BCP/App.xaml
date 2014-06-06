@@ -6,6 +6,7 @@
         <ResourceDictionary Source="/FirstFloor.ModernUI;component/Assets/ModernUI.Dark.xaml" />
       </ResourceDictionary.MergedDictionaries>
       <vm:ViewModelLocator x:Key="Locator" d:IsDataSource="True" xmlns:vm="clr-namespace:XCoinr.BCP.ViewModel" />
+      <vm:ViewModelLocator x:Key="Locator" d:IsDataSource="True" xmlns:vm="clr-namespace:XCoinr.BCP.ViewModel" />
     </ResourceDictionary>
   </Application.Resources>
 </Application>
